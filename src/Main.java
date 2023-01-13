@@ -7,7 +7,8 @@ public class Main {
 
         //boolean result = name.equalsIgnoreCase("bro");
         //int result = name.length();
-        char result = name.charAt(1);
+        //char result = name.charAt(1);
+        int result = name.indexOf("o");
         System.out.println(result);
 
     }
