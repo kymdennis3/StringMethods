@@ -9,7 +9,8 @@ public class Main {
         //int result = name.length();
         //char result = name.charAt(1);
         //int result = name.indexOf("o");
-        boolean result = name.isEmpty();
+        //boolean result = name.isEmpty();
+        String result = name.toUpperCase();
         System.out.println(result);
 
     }
