@@ -5,7 +5,7 @@ public class Main {
 
         String name = "Bro";
 
-        boolean result = name.equals("bro");
+        boolean result = name.equalsIgnoreCase("bro");
         System.out.println(result);
 
     }
