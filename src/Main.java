@@ -6,7 +6,8 @@ public class Main {
         String name = "Bro";
 
         //boolean result = name.equalsIgnoreCase("bro");
-        int result = name.length();
+        //int result = name.length();
+        char result = name.charAt(1);
         System.out.println(result);
 
     }
