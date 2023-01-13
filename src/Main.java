@@ -3,7 +3,7 @@ public class Main {
         //String - a reference data type that can store one or more characters
         //           reference data types have access to useful methods
 
-        String name = "Bro";
+        String name = "    Bro      ";
 
         //boolean result = name.equalsIgnoreCase("bro");
         //int result = name.length();
@@ -11,7 +11,8 @@ public class Main {
         //int result = name.indexOf("o");
         //boolean result = name.isEmpty();
         //String result = name.toUpperCase();
-        String result = name.toLowerCase();
+        //String result = name.toLowerCase();
+        String result = name.trim();
         System.out.println(result);
 
     }

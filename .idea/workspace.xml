@@ -71,7 +71,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673578713104</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="boolean result = isEmpty() - checks to see if the string is empty">
+      <created>1673578828871</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673578828871</updated>
+    </task>
+    <task id="LOCAL-00007" summary="toUpperCase() - converts all the characters in a string to uppercase">
+      <created>1673578939501</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673578939501</updated>
+    </task>
+    <task id="LOCAL-00008" summary="toLowerCase() - converts all the characters in a string to lowercase">
+      <created>1673579042478</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673579042478</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -80,6 +101,9 @@
     <MESSAGE value="length() returns the number of characters in a string" />
     <MESSAGE value="charAt(1) - returns the character in a string" />
     <MESSAGE value="indexOf() - returns the position of a character" />
-    <option name="LAST_COMMIT_MESSAGE" value="indexOf() - returns the position of a character" />
+    <MESSAGE value="boolean result = isEmpty() - checks to see if the string is empty" />
+    <MESSAGE value="toUpperCase() - converts all the characters in a string to uppercase" />
+    <MESSAGE value="toLowerCase() - converts all the characters in a string to lowercase" />
+    <option name="LAST_COMMIT_MESSAGE" value="toLowerCase() - converts all the characters in a string to lowercase" />
   </component>
 </project>
