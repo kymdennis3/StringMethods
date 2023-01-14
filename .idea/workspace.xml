@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1226a86-26a6-4727-bedc-2159c094dddc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="f1226a86-26a6-4727-bedc-2159c094dddc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673579042478</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="trim() - removes the white spaces (if any) in a sentence or a word">
+      <created>1673579297810</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673579297810</updated>
+    </task>
+    <task id="LOCAL-00010" summary="replace(old char, new char) - replaces an old character with a new character">
+      <created>1673579472233</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673579472233</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -104,6 +116,8 @@
     <MESSAGE value="boolean result = isEmpty() - checks to see if the string is empty" />
     <MESSAGE value="toUpperCase() - converts all the characters in a string to uppercase" />
     <MESSAGE value="toLowerCase() - converts all the characters in a string to lowercase" />
-    <option name="LAST_COMMIT_MESSAGE" value="toLowerCase() - converts all the characters in a string to lowercase" />
+    <MESSAGE value="trim() - removes the white spaces (if any) in a sentence or a word" />
+    <MESSAGE value="replace(old char, new char) - replaces an old character with a new character" />
+    <option name="LAST_COMMIT_MESSAGE" value="replace(old char, new char) - replaces an old character with a new character" />
   </component>
 </project>
