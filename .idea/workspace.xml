@@ -19,12 +19,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -104,7 +104,70 @@
       <option name="project" value="LOCAL" />
       <updated>1673579472233</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="replace(old char, new char) - replaces an old character with a new character">
+      <created>1673689514243</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673689514243</updated>
+    </task>
+    <task id="LOCAL-00012" summary="replace(old char, new char) - replaces an old character with a new character">
+      <created>1673689544083</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673689544083</updated>
+    </task>
+    <task id="LOCAL-00013" summary="replace(old char, new char) - replaces an old character with a new character">
+      <created>1673689571306</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673689571306</updated>
+    </task>
+    <task id="LOCAL-00014" summary="replace(old char, new char) - replaces an old character with a new character">
+      <created>1673689592073</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673689592073</updated>
+    </task>
+    <task id="LOCAL-00015" summary="replace(old char, new char) - replaces an old character with a new character">
+      <created>1673689620321</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673689620321</updated>
+    </task>
+    <task id="LOCAL-00016" summary="replace(old char, new char) - replaces an old character with a new character">
+      <created>1673689639810</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1673689639810</updated>
+    </task>
+    <task id="LOCAL-00017" summary="replace(old char, new char) - replaces an old character with a new character">
+      <created>1673689664837</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1673689664837</updated>
+    </task>
+    <task id="LOCAL-00018" summary="replace(old char, new char) - replaces an old character with a new character">
+      <created>1673689687948</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1673689687948</updated>
+    </task>
+    <task id="LOCAL-00019" summary="replace(old char, new char) - replaces an old character with a new character">
+      <created>1673689776830</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1673689776830</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
